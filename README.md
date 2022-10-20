@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nidhi-2619
-- 👀 I’m interested in Web development ,Competitive Programming and OOPS languages
-- 🌱 I’m currently learning Python,Web development
+- 👀 Passionate in Coding ,Designing and Always up for Learning New things
+- 🌱 I’m currently learning Python,Web development,CPP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nidhinishad02@gmail.com
 
