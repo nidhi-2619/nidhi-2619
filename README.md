@@ -9,4 +9,4 @@ nidhi-2619/nidhi-2619 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![@nidhi_nishad26's Holopin board](https://holopin.me/nidhi_nishad26)](https://holopin.io/@nidhi_nishad26)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhi-2619)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhi-2619&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
