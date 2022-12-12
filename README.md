@@ -1,7 +1,9 @@
+“Talk is cheap. Show me the code.” ― Linus Torvalds
+
 - 👋 Hi, I’m @nidhi-2619
 - 👀 Passionate in Coding ,Designing and Always up for Learning New things
 - 🌱 I’m currently learning Python,Web development,CPP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me nidhinishad02@gmail.com
 
 <!---
