@@ -13,11 +13,4 @@ You can click the Preview link to take a look at your changes.
 [![@nidhi_nishad26's Holopin board](https://holopin.me/nidhi_nishad26)](https://holopin.io/@nidhi_nishad26)
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&langs_count=5)
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
 
