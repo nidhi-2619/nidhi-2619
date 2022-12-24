@@ -1,7 +1,7 @@
 “Talk is cheap. Show me the code.” ― Linus Torvalds
 <h1 align = 'center'>Hi,I'm Nidhi</h1>
 
-  
+
  <h4>👀 Passionate in Coding ,Designing and Always up for Learning New things</h4>
     
  <h4> 🌱 I’m currently learning Python,Web development,CPP</h4>
