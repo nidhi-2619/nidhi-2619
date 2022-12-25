@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 </p> -->
 
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&langs_count=5&theme=radical)
 
