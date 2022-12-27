@@ -4,11 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=nidhi-2619)
 
+ <h4> A Data Enthusiast</h4>
+ 
  <h4>👀 Passionate in Coding ,Designing and Always up for Learning New things</h4>
     
  <h4> 🌱 I’m currently learning Python,Web development,CPP</h4>
     
- <h4>💞️ I’m looking to collaborate on Python Projects </h4>
+ <h4>💞️ I’m looking to collaborate on Python Projects and Data Analysis Project</h4>
     
  <h4>📫 How to reach me nidhinishad02@gmail.com</h4>
 <!---
