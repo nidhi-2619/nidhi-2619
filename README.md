@@ -1,4 +1,3 @@
-“Talk is cheap. Show me the code.” ― Linus Torvalds
 
 <h1 align = 'center'>Hi,I'm Nidhi</h1>
 <h6 align = 'center'>A Data Enthusiast</h6>
