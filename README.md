@@ -8,7 +8,7 @@
  
  <h4>👀 Passionate in Coding ,Designing and Always up for Learning New things</h4>
     
- <h4> 🌱 I’m currently learning Python,Web development,CPP</h4>
+ <h4> 🌱 I’m currently learning Django,Data Visualization using Power BI</h4>
     
  <h4>💞️ I’m looking to collaborate on Python Projects and Data Analysis Project</h4>
     
