@@ -11,7 +11,6 @@
     
  <h4>💞️ I’m looking to collaborate on Python Projects and Data Analysis Project</h4>
     
- <h4>📫 How to reach me nidhinishad02@gmail.com</h4>
 <!---
 nidhi-2619/nidhi-2619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
