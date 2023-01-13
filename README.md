@@ -1,4 +1,4 @@
-<h1 align = 'center'>Hi,I'm Nidhi</h1>
+<h1 align = 'center'>Hi,I'm Nidhi Nishad</h1>
 <h6 align = 'center'>A Data Enthusiast</h6>
 
 ![](https://komarev.com/ghpvc/?username=nidhi-2619)
