@@ -12,7 +12,7 @@
  
  <h4>👀 Passionate in Coding ,Designing and Always up for Learning New things</h4>
     
- <h4> 🌱 I’m currently learning Data Visualization using Power BI</h4>
+ <h4> 🌱 I’m currently learning Data Visualization using Tableau</h4>
     
  <h4>💞️ I’m looking to collaborate on Python Projects and Data Analysis Project</h4>
     
