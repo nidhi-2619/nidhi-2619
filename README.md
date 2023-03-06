@@ -1,25 +1,26 @@
 <div align ='center'>
 <img src="https://github.com/nidhi-2619/nidhi-2619/blob/main/Group%201.png" title='icon' alt='icon' height="150" >
 </div>
-<h1 align = 'center'>Hi,I'm Nidhi Nishad</h1>
+<h1 align = 'center' >Hi,I'm Nidhi Nishad</h1>
 <h6 align = 'center'>A Data Enthusiast</h6>
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=nidhi-2619)
 
 </div>
- 
- 
- <h4>👀 Passionate in Coding ,Designing and Always up for Learning New things</h4>
-    
- <h4> 🌱 I’m currently learning Data Visualization using Tableau</h4>
-    
- <h4>💞️ I’m looking to collaborate on Python Projects and Data Analysis Project</h4>
+
+ ### About me
+ - Passionate in Coding ,Designing and Always up for Learning New things
+ - I’m currently learning Data Visualization using Tableau
+ - I’m looking to collaborate on Python Projects and Data Analysis Project
     
 <!---
 nidhi-2619/nidhi-2619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ <img src="https://github.com/nidhi-2619/nidhi-2619/blob/main/Genesis%20Vision.gif" height=200px width=600px align='centre'>
+ 
 <br>
 
 ## Languages and Tools:
@@ -42,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical)
+ ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical&line_height=15)
 
