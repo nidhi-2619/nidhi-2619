@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Languages and Tools:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt='python' height='50'> &nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt='python' height='50'> &nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpluscplus" alt='c++' height='50'> &nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt='javascipt' height='50'> &nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt='django' height='50'> &nbsp
@@ -43,5 +43,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&langs_count=5&theme=radical&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical)
 
