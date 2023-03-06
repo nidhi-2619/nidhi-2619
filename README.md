@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
  ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical" width='420'/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical" width='350'/>
 </a>
 
 
