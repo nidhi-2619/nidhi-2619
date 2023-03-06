@@ -10,9 +10,11 @@
 </div>
 
  ### About me
- - Passionate in Coding ,Designing and Always up for Learning New things
- - I’m currently learning Data Visualization using Tableau
- - I’m looking to collaborate on Python Projects and Data Analysis Project
+
+ - Passionate in  __Coding__ ,___Designing___ and Always up for Learning New things
+ - I’m currently learning __Data Visualization__ using ___Tableau___.
+ - I’m looking to collaborate on ___Python___ __Projects and Data Analysis Project__
+ - In love with ___backend___ development.
     
 <!---
 nidhi-2619/nidhi-2619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Languages and Tools:
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt='python' height='50'> &nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpluscplus" alt='c++' height='50'> &nbsp
@@ -41,9 +44,13 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt='boostrap' height='50'> &nbsp
 </div>
 
-<br>
+<!-- <br> -->
+
+## Statistics
 
  ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nidhi-2619&show_icons=true&theme=radical&count_private=true)
+<a href="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical" width='420'/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-2619&hide_progress=true&layout=compact&langs_count=6&theme=radical&line_height=15)
 
