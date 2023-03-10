@@ -1,5 +1,5 @@
 <div align ='center'>
-<img src="https://github.com/nidhi-2619/nidhi-2619/blob/main/Group%201.png" title='icon' alt='icon' height="150" >
+<img src="https://github.com/nidhi-2619/nidhi-2619/blob/main/Group%201.png" title='icon' alt='icon' height="100" >
 </div>
 <h1 align = 'center' >Hi,I'm Nidhi Nishad</h1>
 <h6 align = 'center'>A Data Enthusiast</h6>
