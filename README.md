@@ -14,7 +14,7 @@
  - Passionate in  __Coding__ ,___Designing___ and Always up for Learning New things
  - I’m currently learning __Data Visualization__ using ___Tableau___.
  - I’m looking to collaborate on ___Python___ __Projects and Data Analysis Project__
- - In love with ___backend___ development.
+<!--  - In love with ___backend___ development. -->
     
 <!---
 nidhi-2619/nidhi-2619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
