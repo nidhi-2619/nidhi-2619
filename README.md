@@ -13,7 +13,7 @@
 
  - Passionate in  __Coding__ ,___Designing___ and Always up for Learning New things
  - I’m currently learning __Machine Learning__ and ___Full Stack Development___.
- - I’m looking to collaborate on ___Python___ __Projects and Backend Project__
+ - I’m looking to collaborate on __Projects__ and enhance my development and real world problem solving skills
 <!--  - In love with ___backend___ development. -->
     
 <!---
